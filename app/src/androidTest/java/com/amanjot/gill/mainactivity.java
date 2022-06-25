@@ -1,6 +1,6 @@
-//Name - Amanjot Singh Gill
-  //      Student id - A00246495
-    //    Events
+//Name - Lovepreet kaur
+  //      Student id - A00328391
+    //     assignment 5 -Events
 
 
 package com.amanjot.gill;
